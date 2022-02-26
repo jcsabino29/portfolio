@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
+    title: 'Travel Advisor',
     description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
+      image: '/images/travel_advisor.jpg',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://optimistic-cori-ebcd9b.netlify.app/',
+    visit: 'https://github.com/jcsabino29/travel_advisor.git',
     id: 0,
   },
   {
