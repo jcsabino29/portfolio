@@ -1,20 +1,20 @@
 export const projects = [
   {
     title: 'Travel Advisor',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "A mock travel advisor app that assists users in searching for restaurants, hotels and entertainment venues in their area. The app uses the travel advisor rapid api and google maps to ",
       image: '/images/travel_advisor.jpg',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+      tags: ['React', 'Node', 'Google Maps', 'API'],
     source: 'https://optimistic-cori-ebcd9b.netlify.app/',
     visit: 'https://github.com/jcsabino29/travel_advisor.git',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Trivia Junkie',
+    description:"An entertainment trivia application that test the knowledge of its users. It's a point based game that continues until the user spends all of their points.",
+    image: '/images/trivia_junkie.png',
+    tags: ['React', 'Node', 'Express', 'MongoDB'],
+    source: 'https://dreamy-snyder-03dd4a.netlify.app/',
+    visit: 'https://github.com/jcsabino29/trivia_junkie',
     id: 1,
   },
   {
