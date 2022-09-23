@@ -14,7 +14,6 @@ const Hero = (props) => (
       <SectionText>
         The objective of this portfolio is to showcases my knowledge, credentials and skills to those who are interested and keep track of my personal development.
       </SectionText>
-      <Button onClick={() => window.location = 'https//:google.com'}> Learn More </Button>
     </LeftSection>
   </Section>
 );
